@@ -1,0 +1,9 @@
+*.aot
+*.o
+*.a
+
+**/*build/
+**/*test/
+.vscode/
+**/*deps/
+tmp/
