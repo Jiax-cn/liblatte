@@ -3,7 +3,5 @@
 *.a
 
 **/*build/
-**/*test/
 .vscode/
-**/*deps/
 tmp/
