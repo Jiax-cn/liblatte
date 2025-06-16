@@ -1,12 +1,8 @@
 # liblatte
 
----
-
 **liblatte** is a lightweight，standalone library for implementing **layered attestation mechanisms** in portable enclaved applications. It is particularly well-suited for WebAssembly (WASM) and other sandboxed or embedded environments where trust must be established across multiple TEEs.
 
 ## 📁 Project Structure
-
----
 
 ### 📌 src/
 Provides the main API interfaces for deriving measurements and portable identities across different Trusted Execution Environment (TEE) platforms.
@@ -27,7 +23,5 @@ make -j
 ```
 
 ## 📄 License
-
----
 
 The source code of liblatte are released under the Apache license 2.0. Check the file LICENSE for more information.
